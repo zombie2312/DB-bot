@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zombie2312/discord_bot_tutorial_3.0.git"
+    "url": "git+https://github.com/zombie2312/DB-bot.git"
   },
   "author": "TrueXPixels",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zombie2312/discord_bot_tutorial_3.0/issues"
+    "url": "https://github.com/zombie2312/DB-bot/issues"
   },
-  "homepage": "https://github.com/zombie2312/discord_bot_tutorial_3.0#readme"
+  "homepage": "https://github.com/zombie2312/DB-bot#readme"
 }
