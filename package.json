@@ -1,0 +1,26 @@
+{
+  "name": "discord_bot_tutorial_3.0",
+  "version": "1.0.0",
+  "description": "title same",
+  "main": "app.js",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^11.2.1",
+    "quick.db": "^2.0.12",
+    "weather-js": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zombie2312/discord_bot_tutorial_3.0.git"
+  },
+  "author": "TrueXPixels",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zombie2312/discord_bot_tutorial_3.0/issues"
+  },
+  "homepage": "https://github.com/zombie2312/discord_bot_tutorial_3.0#readme"
+}
